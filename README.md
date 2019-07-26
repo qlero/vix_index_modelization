@@ -16,3 +16,7 @@ Update on June 8th, 2019:
 4. Patched the VIX formula: some days could yield a negative sigma square
 5. Updated the README.md to reflect changes
 
+Update on July 25th, 2019:
+1. Updated how near- and next-term Fridays are calculated
+2. Patched the VIX formula: some data retrievals could yield uncomputable data (i.e. "-")
+3. Updated the README.md to reflect changes
